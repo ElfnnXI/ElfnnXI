@@ -1,13 +1,20 @@
 ![ElfnnXI](img/github-header-image.png)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ElfnnXI/count.svg?"  />
+</div>
+
 # 💫 About Me:
 I am a cybersecurity enthusiast and passionate about cryptography which makes me very interested in digital resilience, privacy, and systems that don't require trust.  My goal is to create secure technologies from design to practice so that everyone can protect what matters most to them: freedom, identity, and information.
 
 ![Creativity](img/cat.gif)
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ## 🌐 Socials:
-![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white) ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logolinkedin&logoColor=white)](www.linkedin.com/in/ikmal-thaufan-mahdi-90780110r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logoInstagram&logoColor=white)](https://www.instagram.com/thfnn_fn?igsh=bXlibHJ4a3RsaWxx) 
+[![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xiell7@protonmail.com?subject=Hello&body=I%20want%20to%20connect%20with%20you) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281219268195) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logolinkedin&logoColor=white)](www.linkedin.com/in/ikmal-thaufan-mahdi-90780110r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logoInstagram&logoColor=white)](https://www.instagram.com/thfnn_fn?igsh=bXlibHJ4a3RsaWxx) 
 
 
 # 💻 Tech Stack:
@@ -42,3 +49,14 @@ I am a cybersecurity enthusiast and passionate about cryptography which makes me
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img src="https://raw.githubusercontent.com/ElfnnXI/ElfnnXI/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
+
