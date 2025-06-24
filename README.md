@@ -1,8 +1,8 @@
 ![ElfnnXI](img/github-header-image.png)
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-counter.glitch.me/ElfnnXI/count.svg?"  />
-</div> -->
+</div>
 
 # 💫 About Me:
 I am a cybersecurity enthusiast and passionate about cryptography which makes me very interested in digital resilience, privacy, and systems that don't require trust.  My goal is to create secure technologies from design to practice so that everyone can protect what matters most to them: freedom, identity, and information.
